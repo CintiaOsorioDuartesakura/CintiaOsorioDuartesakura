@@ -1,10 +1,11 @@
 
-###Hi there
-console.log("Hola Mundo")
+### Hi there 👋
+
 <!--
 **CintiaOsorioDuartesakura/CintiaOsorioDuartesakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
--Actualmente estoy trabajando en forma independiente en ventas de productos.
+- 🔭Actualmente estoy trabajando en forma independiente en ventas de productos.
 - 🌱 Actualmente estoy estudiando desorrollo web , diseño ux y testing manual
 -Me gusta hacer ilustraciones tanto manuales como utilizando Dream Wombo
 - 📫 Cómo contactarme: por este medio.
