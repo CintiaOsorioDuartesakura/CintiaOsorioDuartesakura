@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-<!--
+<!--![dream_TradingCard](https://user-images.githubusercontent.com/88154169/227813291-83dd32ca-9ac8-468d-867c-120d2cf980fd.jpg)
+
 **CintiaOsorioDuartesakura/CintiaOsorioDuartesakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
