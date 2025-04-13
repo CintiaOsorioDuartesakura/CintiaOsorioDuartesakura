@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronombres: Cin
 - ⚡ Dato curioso: Estoy incursionando en el mundo TI desde la pandemia casi toda mi experiencia es en atencion al publico o ventas en cuanto a trabajo, me gustan los nuevos desafios.
 -->
-![dream_TradingCard](https://user-images.githubusercontent.com/88154169/227813836-14dc0dbc-75a1-4a48-b152-8a87bbf50e28.jpg)
+![Myfuture2](https://github.com/user-attachments/assets/29ff5709-1c23-4ef4-b2aa-be94082f3b5f)
+
+
 
 - 🔭Actualmente estoy trabajando en forma independiente en ventas de productos.
 - 🌱 Actualmente estoy estudiando desorrollo web , diseño ux y testing manual
